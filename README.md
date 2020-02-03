@@ -16,7 +16,7 @@ python -m spacy download en
 
 [dataset](https://drive.google.com/open?id=1PhQoOiuRC5UeE79zkdSCqjJRFnav9D7U)
 
-put 'dataset/' on current directory
+put   dataset/   on current directory
 
 
 ## Run
